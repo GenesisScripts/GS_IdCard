@@ -3,8 +3,8 @@ game 'gta5'
 use_experimental_fxv2_oal 'yes'
 lua54 'yes'
 
-author "Genesis police badge"
-description 'Badge system for police to prove identity.'
+author "Genesis ID Script"
+description 'ID system for ESX to prove identity.'
 version '1.0.0'
 
 ui_page 'web/index.html'
