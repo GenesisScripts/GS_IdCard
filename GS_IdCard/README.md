@@ -17,3 +17,4 @@
 	},
 
 ## Simply just drag and drop into your Fivem Resources the script should do the rest. If you wish to add diffrent ID then you will have to mess with .css yourself 
+
