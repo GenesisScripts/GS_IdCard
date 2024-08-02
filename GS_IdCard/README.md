@@ -1,5 +1,7 @@
 ## Genesis ID - 1.0.0
 
+Preview: https://streamable.com/03iap1
+
 - Lore Frieendly 
 - optimized 
 - Supports ox_inventory
