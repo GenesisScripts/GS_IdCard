@@ -1,0 +1,97 @@
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/roboto/Roboto-Regular.woff);
+}
+
+body {
+    display: none;
+}
+
+#badge-container {
+    position: absolute;
+    width: 450px;
+    height: 250px;
+    top: 150px;
+    right: 100px;
+}
+
+#background-img {
+    position: absolute;
+    width: 130px;
+    height: 150px;
+    top: 59px;
+    left: 301px;
+}
+
+#badge-img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
+#info-container {
+    position: absolute;
+    top: 260px;
+    right: 145px;
+    width: 400px;
+    height: 200px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+}
+
+#rank {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 78%;
+    top: -116px;
+    transform: translateX(-50%);
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#name {
+    margin: 0;
+    padding: 0;
+    top: -195px;
+    position: absolute;
+    left: 31%;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight: bold;
+}
+#address {
+    margin: 0;
+    padding: 0;
+    top: -170px;
+    position: absolute;
+    left: 31%;
+    font-family: Arial;
+    font-size: 17   px;
+    font-weight: bold; 
+}
+
+#license_expired {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 42%;
+    top: -116px;
+    transform: translateX(-50%);
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#license_type {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: 43%;
+    top: -78px;
+    transform: translateX(-50%);
+    font-family: Arial;
+    font-size: 15px;
+    font-weight: bold;
+}
