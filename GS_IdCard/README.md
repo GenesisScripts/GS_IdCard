@@ -19,3 +19,5 @@ Preview: https://streamable.com/03iap1
 	},
 
 ## Simply just drag and drop into your Fivem Resources the script should do the rest. If you wish to add different ID then you will have to mess with .css yourself
+
+If you need any more help please join the discord: https://discord.gg/UQYvu52By9
